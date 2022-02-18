@@ -1,0 +1,3 @@
+[submodule "Weekly-Schedule"]
+	path = Weekly-Schedule
+	url = https://github.com/carterellison/Weekly-Schedule.git
